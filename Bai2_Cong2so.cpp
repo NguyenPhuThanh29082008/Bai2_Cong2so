@@ -16,9 +16,9 @@ int main()
     cout << "Tong va tich 3 so: " << a << "+" << b << "*" << c << "=" << tongvatich << endl;
 
     cout << "nhap so e: "; cin >> e;
-    f = tongvatich + e;
-    cout << "ta co so f = tongvatich + so e\n";
-    cout << "so f = " << tongvatich << "+" << e << "=" << f << endl;
+    f = tongvatich - e;
+    cout << "ta co so f = tongvatich - so e\n";
+    cout << "so f = " << tongvatich << "-" << e << "=" << f << endl;
 
     cout << "nhap so g: "; cin >> g;
     h = f / g;
