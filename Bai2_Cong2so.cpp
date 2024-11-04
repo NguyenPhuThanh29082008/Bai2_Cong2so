@@ -18,12 +18,12 @@ int main()
     cout << "nhap so e: "; cin >> e;
     f = tongvatich - e;
     cout << "ta co so f = tongvatich - so e\n";
-    cout << "so f = " << tongvatich << "-" << e << "=" << f << endl;
+    cout << "=> so f = " << tongvatich << "-" << e << "=" << f << endl;
 
     cout << "nhap so g: "; cin >> g;
     h = f / g;
-    cout << "ta cho h = f : g thi ta se co:\n";
-    cout << "so h = " << f << " : " << g << " = " << h << endl;
+    cout << "ta cho h = f : g:\n";
+    cout << "=> so h = " << f << " : " << g << " = " << h << endl;
 
     return 0;
 }
