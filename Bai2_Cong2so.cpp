@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    cout << "CHUONG TRINH TONG VA TICH 3 SO" << endl;
+    cout << "CHUONG TRINH TONG HIEU TICH THUONG" << endl;
     cout << "ta co bieu thuc a+b*c\n";
     int a, b, c, d, e, f, g;          //Khai bao bien a b c d e f g kieu so nguyen
     int tongvatich;        //Khai bao tongvatich
